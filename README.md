@@ -1,10 +1,9 @@
-**Machine Learning Cohort at Bangkit Academy 2023**
+**Informatics Engineering Student At Muhammadiyah University of Sukabumi | Data Analyst | Crypto & Blockchain Enthusiast**
 
 [LinkedIn](https://www.linkedin.com/in/riza-nursyah-31a6a7221/)  
 [Instagram](https://www.instagram.com/rizanss_/)  
 [YouTube](https://www.youtube.com/channel/UCudP1etTERfCmqRvLUw8xuw)  
 
-My recently project [Preprocessing Data, Analysis, and Regression Modeling on The Daily Update of Covid-19 in Jakarta](https://colab.research.google.com/drive/1KhZYYEaX5yK_9BgPlshpL8gJINwsPrhO)
 
 <p align="left">
 <a href="https://github.com/rizanss">
