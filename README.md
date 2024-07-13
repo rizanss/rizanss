@@ -1,4 +1,4 @@
-**Informatics Engineering Student At Muhammadiyah University of Sukabumi | Data & Blockchain Enthusiast**
+**Computer Science Student At Muhammadiyah University of Sukabumi | Data & Blockchain Enthusiast**
 
 [LinkedIn](https://www.linkedin.com/in/riza-nursyah-31a6a7221/)  
 [Instagram](https://www.instagram.com/rizanss_/)  
